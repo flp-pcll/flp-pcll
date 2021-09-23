@@ -8,8 +8,7 @@
 </div>
  
  <br>
- ####Current Learning:
- 
+ <h4>I am current learning:</h4> 
   
 <div style="display: inline_block"><br>
   <img align="center" alt="logo-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
